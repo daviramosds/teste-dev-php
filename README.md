@@ -16,7 +16,6 @@ Certifique-se de ter o Docker e Docker Compose instalados em sua máquina. Para 
 
 2. Execute o Docker Compose para iniciar os serviços:
    ```bash
-   git clone https://github.com/daviramosds/teste-dev-php
    docker-compose up -d
 
 Se a url não for "localhost", você deve alterar a constante INCLUDE_PATH no arquivo ./htdocs/config.php
