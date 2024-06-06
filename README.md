@@ -12,7 +12,7 @@ Certifique-se de ter o Docker e Docker Compose instalados em sua máquina. Para 
 
    ```bash
    git clone https://github.com/daviramosds/teste-dev-php
-   cd crud-distro
+   cd teste-dev-php
 
 2. Execute o Docker Compose para iniciar os serviços:
    ```bash
